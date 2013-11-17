@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnNewGame"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/start_game" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button 
+        android:id="@+id/btnResume"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/resume_game"
+        android:state_enabled="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+    <Button
+        android:id="@+id/btnPreferences"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/preferences" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnRules"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/rules" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnCredits"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/credits" />
+
+</LinearLayout>

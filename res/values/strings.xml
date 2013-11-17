@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Şeptică</string>
+    <string name="start_game">New Game</string>
+    <string name="preferences">Setttings</string>
+    <string name="rules">Rules</string>
+    <string name="credits">About</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="rules_title">The game rules are:</string>
+    <string name="first_rule">• The card deck contains 32 cards from 7 to A</string>
+    <string name="second_rule">• each player is dealt four cards, chosen at random </string>
+    <string name="third_rule">• each player puts a card down, alternatively</string>
+    <string name="fourth_rule">• implicitly, the cards are taken by the first player</string>
+    <string name="fifth_rule">• if the second player responds with 7, or with a card that has the same value like the first, 
+        then he will take the cards</string>
+    <string name="sixth_rule">• the first player can object in the above case, but only with a 7 or with a card that has
+        the same value like the first card played</string>
+    <string name="seventh_rule">• after the hand end, each player is dealt new cards</string>
+    <string name="eighth_rule">• 10 and A are considered points (in total there are 8 points)</string>
+    <string name="ninth_rule">• the game is won by the side that has the more points</string>
+    <string name="credits_title">Şeptică</string>
+    <string name="application_credits">Copyright © 2012 \n Alexandru Fera \n
+        E-mail: septica.android@gmail.com</string>
+    <string name="desc">card image</string>
+    <string name="empty_string">\u0020\u0020\u0020\u0020</string>
+    <string name="btnDone">Ready</string>
+    <string name="settings">Settings</string>
+    <string name="resume_game">Resume</string>
+    <string name="won_message">You won! You got\u0020</string>
+    <string name="points">\u0020 points.</string>
+    <string name="lost_message">You lost! You got\u0020</string>
+    <string name="draw">Draw!</string>
+    <string name="easy_difficulty">Easy</string>
+    <string name="medium_difficulty">Medium</string>
+    <string name="hard_difficulty">Hard</string>
+    <string name="computer_label">Computer</string>
+    <string name="player_label">Me</string>
+    <string name="label_points">Points:</string>
+
+</resources>

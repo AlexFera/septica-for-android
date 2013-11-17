@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Şeptică</string>
+    <string name="start_game">Joc nou</string>
+    <string name="preferences">Setări</string>
+    <string name="rules">Reguli</string>
+    <string name="credits">Despre</string>
+    <string name="difficulty">Dificultate</string>
+    <string name="rules_title">Regulile jocului sunt: </string>
+    <string name="first_rule">• pachetul de cărţi conţine 32 de cărţi de la 7 la A</string>
+    <string name="second_rule">• fiecare jucător primeşte iniţial patru cărţi, alese la întâmplare</string>
+    <string name="third_rule">• jucătorii pun jos câte o carte, alternativ</string>
+    <string name="fourth_rule">• implicit, cărţile de jos sunt luate de primul jucător</string>
+    <string name="fifth_rule">• dacă al doilea jucător pune un 7, sau o carte cu aceeaşi figură ca şi cea iniţială, atunci el va lua cărţile</string>
+    <string name="sixth_rule">• primul jucător poate obiecta în cazul de mai sus, dar doar dacă pune de asemenea un 7 sau o carte cu aceeaşi figură ca şi cea iniţială</string>
+    <string name="seventh_rule">• după ridicarea cărţilor, se primesc noi cărţi pentru ca fiecare jucător să aibă 4 cărţi în mână</string>
+    <string name="eighth_rule">• 10 şi A se consideră puncte (în total sunt 8 puncte)</string>
+    <string name="ninth_rule">• câştigător este cel care a acumulat cele mai multe puncte la sfârşitul jocului</string>
+    <string name="credits_title">Şeptică</string>
+    <string name="application_credits">Copyright © 2012 \n Alexandru Fera \n
+        E-mail: septica.android@gmail.com</string>
+    <string name="desc">card image</string>
+    <string name="empty_string">\u0020\u0020\u0020\u0020</string>
+    <string name="btnDone">Gata</string>
+    <string name="settings">Setări</string>
+    <string name="resume_game">Reîncepe</string>
+    <string name="won_message">Ai câştigat! Ai obţinut\u0020</string>
+    <string name="points">\u0020 puncte.</string>
+    <string name="lost_message">Ai pierdut! Ai obţinut\u0020</string>
+    <string name="draw">Egalitate!</string>
+    <string name="easy_difficulty">Uşor</string>
+    <string name="medium_difficulty">Mediu</string>
+    <string name="hard_difficulty">Dificil</string>
+    <string name="computer_label">Computer</string>
+    <string name="player_label">Eu</string>
+    <string name="label_points">Puncte:</string>
+
+</resources>
